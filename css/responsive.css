@@ -1,0 +1,86 @@
+@media (max-width: 1300px) {
+  #hero {
+    background-position: top;  
+    height: 105vh;              
+  }
+  #hero a #postaniClan{
+    bottom: 150px;
+    left: 50px;
+    
+  }
+}
+@media (max-width: 1100px) {
+  #hero {
+    background-position: top;  
+    height: 90vh;          
+  }
+  .lokacije p {
+  font-size: 18px;
+  margin-bottom: 250px;
+  }
+}
+
+
+@media (max-width: 900px) {
+  #hero {
+    background-position: top;  
+    height: 75vh;              
+  }
+   #hero a #postaniClan{
+    bottom: 20px;
+    left: 50px;
+    padding: 15px 15px; 
+  }
+  .lokacije{
+    height: 80vh;
+  }
+ .lokacije p {
+  font-size: 18px;
+  margin-bottom: 130px;
+  }
+}
+@media (max-width: 780px) {
+  #hero {
+    background-position: top;  
+    height: 65vh;             
+  }
+   #hero a #postaniClan{
+   font-size: 15px; 
+}
+ .lokacije{
+    height: 60vh;
+  }
+    .lokacije p {
+  font-size: 16px;
+  margin-bottom: 20px;
+  }
+}
+@media (max-width: 560px) {
+  .lokacije{
+    height: 50vh;
+  }
+  .lokacije h2{
+    margin-bottom: 20px;
+    padding: 5px 0px;
+  }
+  .lokacije p {
+  font-size: 15px;
+  margin-top: 60px;
+  margin-bottom: 5px;
+  }
+.lokacije-btn{
+  padding: 7px 15px;
+  }
+}
+@media (max-width: 500px) {
+  #hero {
+    background-position: top; 
+    height: 58vh;            
+  }
+}
+@media (max-width: 400px) {
+  #hero {
+    background-position: top; 
+    height: 45vh;            
+  }
+}
